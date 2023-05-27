@@ -44,7 +44,8 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-nft-preview-card-component-main)
+[My Solution](https://dusvimarin.github.io/FEM-product-preview-card-component-main/)
+
 
 
 ## My process
