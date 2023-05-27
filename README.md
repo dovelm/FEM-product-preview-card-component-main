@@ -35,9 +35,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-nft-preview-card-component-main/blob/main/screenshots/desktop.png)
+![](https://github.com/dusvimarin/FEM-product-preview-card-component-main/blob/main/screenshots/desktop1.png)
 
-![](https://github.com/dusvimarin/FEM-nft-preview-card-component-main/blob/main/screenshots/mobile.png)
+![](https://github.com/dusvimarin/FEM-product-preview-card-component-main/blob/main/screenshots/mobile1.png)
 
 
 
