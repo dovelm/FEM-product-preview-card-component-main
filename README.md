@@ -73,4 +73,4 @@ I learned to use elements flexbox.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvy_m](https://github.com/dovelym)
+[@dovely_m](https://github.com/dovelym)
